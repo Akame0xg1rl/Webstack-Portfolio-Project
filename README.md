@@ -1,5 +1,7 @@
 # Digital Planner Hub 📚 ✨
 
+![Ultimate demo.](https://i.imgur.com/OZX2JVR.png)
+
 ## Project Owner & Developer 👩‍💻
 **Ikram Bouachra**
 - Solo Developer
