@@ -3,6 +3,20 @@
 ## Base URL
 `http://localhost:1337/api`
 
+## Usage
+
+- install libraries for the flask
+
+```bash
+pip3 install flask
+pip3 install requests
+```
+- Run the backend server with the command below:
+
+```bash
+bash$ python3 app.py
+```
+
 ## Authentication
 Simple authentication system using email and password.
 
