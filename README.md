@@ -83,4 +83,7 @@ Digital Planner Hub is a backend-focused platform designed to empower individual
 ---
 *This project is designed with a focus on backend excellence and user experience, leveraging modern technologies to create a seamless digital planning platform.*
 ---
+## Side note
+ - The digital planners well designed by me in case you are interested for more details my contacts always open.
+---
 *Contributors are moer than welcome ^^*
