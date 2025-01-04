@@ -1,6 +1,9 @@
 # Digital Planner Hub 📚 ✨
 
 ![Ultimate demo.](https://i.imgur.com/OZX2JVR.png)
+## Demo of the project vault0x1
+
+![Demo](https://i.imgur.com/XuR2HmA.gif)
 
 ## Project Owner & Developer 👩‍💻
 **Ikram Bouachra**
