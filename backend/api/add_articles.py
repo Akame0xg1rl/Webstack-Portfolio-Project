@@ -1,7 +1,7 @@
 import sqlite3
 
 # Connect to the SQLite database (or create it if it doesn't exist)
-conn = sqlite3.connect('bookstore.db')
+conn = sqlite3.connect('digital_planner.db')
 cursor = conn.cursor()
 
 # Create the products table

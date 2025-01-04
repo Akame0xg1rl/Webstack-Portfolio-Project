@@ -13,7 +13,7 @@ CORS(app)  # Enable CORS for all routes
 logging.basicConfig(level=logging.DEBUG)
 
 def get_db_connection():
-    conn = sqlite3.connect('bookstore.db')
+    conn = sqlite3.connect('digital_planner.db')
     conn.row_factory = sqlite3.Row
     return conn
 
