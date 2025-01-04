@@ -3,7 +3,7 @@
 ![Ultimate demo.](https://i.imgur.com/OZX2JVR.png)
 ## Demo of the project vault0x1
 
-![Demo](https://i.imgur.com/XuR2HmA.gif)
+![Demo](https://github.com/Akame0xg1rl/Webstack-Portfolio-Project/blob/main/Assets/demo.gif?raw=true)
 
 ## Project Owner & Developer 👩‍💻
 **Ikram Bouachra**
